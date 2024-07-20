@@ -1,0 +1,78 @@
+##  Data Types:
+
+1] Numeric Type : Integer, Floating, Complex, Decimal, Fraction ('from fraction module')
+2] Sequence Type : Lists, Tuple, String, Ranges, Bytes
+3] Set Type : Sets, Frozen Set
+4] Mapping Type : Dictionaries
+5] Boolen Type
+
+
+## collections : 
+
+## itertools :
+
+## Variable, Constant : 
+
+## Basic Operators : 
+
+## Control Flow :
+
+## Functions : 
+
+## Scope : 
+
+## Module :
+
+## Packages : 
+
+## OOPS : 
+
+## Inheritance Type : 
+
+## Attribute and Method : 
+
+## Magic Method : 
+
+## Synchronous : 
+
+## Asynchronous : 
+
+## MultiThreading : 
+
+# Multiprocessing : 
+
+## Error Name : 
+
+## Iterators and generators : 
+
+## Functional programming (FP) : 
+
+## Decorators : 
+
+## @staticmethod`, `@classmethod`, and `@property : 
+
+## Memory Management : 
+
+## super() , object() & closures :
+
+## Method Overloading and Method Overriding : 
+
+## shallow copy and deep copy : 
+
+## Context Manager
+
+## Constructors and Destructors : 
+
+## Pickling and unpickling
+
+## ZIP
+
+## Monkey Patching
+
+## .py and .pyc
+
+## Walrus Operator
+
+## Logging
+
+## File Handling
